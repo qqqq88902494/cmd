@@ -1,0 +1,1 @@
+xcopy \\192.168.0.188\jdtt\vfx_tools\houdini17.5 C:\Users\%username%\Documents\houdini17.5 /c /e /y
